@@ -3,7 +3,7 @@ Hi, I am Heinny Ceballos, currently a software analysis and development apprenti
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sharith Ceballos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heinny.ceballos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cheinnysharith@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SharithgitCeballos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heinny.ceballos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cheinnysharith@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
